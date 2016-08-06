@@ -1,0 +1,27 @@
+_repo: The-Palmy-Days-of-Nance-Oldfield_11717
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Robins, Edward
+    birthdate: 1862
+    deathdate: 1943
+    gutenberg_agent_id: '4077'
+    url: http://www.gutenberg.org/2009/agents/4077
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Robins
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11717'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theater -- Great Britain -- History -- 18th century'
+- !lcc 'PN'
+- !lcsh 'Oldfield, Anne, 1683-1730'
+- !lcsh 'Actresses -- Great Britain -- Biography'
+- GITenberg
+title: The Palmy Days of Nance Oldfield
+url: http://www.gutenberg.org/ebooks/11717
